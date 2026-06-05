@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+*.env
+
+# Node
+node_modules/
+/dist
+/build
+/.turbo
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
